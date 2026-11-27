@@ -1,0 +1,6 @@
+{
+  "name": "ScamVerse — The Digital Trust Simulator",
+  "description": "An interactive cybersecurity awareness platform with realistic scam simulations, Digital Detective investigations, NumberGuard community reporting, and an AI Cyber Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
